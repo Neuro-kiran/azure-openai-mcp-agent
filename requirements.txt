@@ -1,0 +1,4 @@
+openai
+azure-identity
+mcp<2
+pytest
